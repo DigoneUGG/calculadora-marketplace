@@ -1,0 +1,44 @@
+{
+    "mercadolivre": {
+        "tarifa": 13,
+        "cor": "#ffeb3b",
+        "texto": "#000",
+        "logo": "mercadolivre.png"
+    },
+    "shopee": {
+        "tarifa": 14,
+        "cor": "#ff5722",
+        "texto": "#fff",
+        "logo": "shopee.png"
+    },
+    "magalu": {
+        "tarifa": 16,
+        "cor": "#007bff",
+        "texto": "#fff",
+        "logo": "magalu.png"
+    },
+    "amazon": {
+        "tarifa": 15,
+        "cor": "#232f3e",
+        "texto": "#fff",
+        "logo": "amazon.png"
+    },
+    "aliexpress": {
+        "tarifa": 12,
+        "cor": "#ff2e2e",
+        "texto": "#fff",
+        "logo": "aliexpress.png"
+    },
+    "olist": {
+        "tarifa": 17,
+        "cor": "#4b0082",
+        "texto": "#fff",
+        "logo": "olist.png"
+    },
+    "shein": {
+        "tarifa": 10,
+        "cor": "#000000",
+        "texto": "#fff",
+        "logo": "shein.png"
+    }
+}
